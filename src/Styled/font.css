@@ -1,0 +1,19 @@
+/* fonts.css */
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../Font/EB.ttf') format('truetype');
+   
+}
+
+@font-face {
+    font-family: 'Medium';
+    src: url('../Font/Med.ttf') format('truetype');
+   
+}
+
+@font-face {
+    font-family: 'Regular';
+    src: url('../Font/Reg.ttf') format('truetype');
+   
+}
