@@ -1,12 +1,17 @@
 import React from "react";
 import Globalstyles from "./Styles/GlobalStyles";
+import Index from "./Source/Index";
+
+
 
 function App() {
   return (
     <>
       
       <Globalstyles />
-      <h1 style={{ color: "white" }}>hjjkklhhfhgjjg</h1>
+      <Index/>
+
+      
     </>
   );
 }
